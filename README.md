@@ -1,2 +1,2 @@
 # Exercio_Bootstrap
-Primeiro exercicio de Bootstrap
+Primeiro exercício de Bootstrap
